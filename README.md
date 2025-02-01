@@ -70,4 +70,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 Your Name - [@aurocacommunity](https://x.com/aurocacommunity)
-Project Link: [https://github.com/auroca-io/auroca-wrapper](https://github.com/auroca-io/auroca-wrapper)
+Project Link: [https://github.com/auroca-io/Asset-Referenced-Token](https://github.com/auroca-io/Asset-Referenced-Token)
