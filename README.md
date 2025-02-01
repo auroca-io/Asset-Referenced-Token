@@ -69,5 +69,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter)
-Project Link: [https://github.com/your-username/auroca-wrapper](https://github.com/your-username/auroca-wrapper)
+Your Name - [@aurocacommunity](https://x.com/aurocacommunity)
+Project Link: [https://github.com/auroca-io/auroca-wrapper](https://github.com/auroca-io/auroca-wrapper)
